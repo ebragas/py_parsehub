@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-setup(name="py-parsehub",
+setup(name="py_parsehub",
       version="0.1",
       description="Python3 module for interaction with Parsehub API",
       author="Viktor Hronec",
